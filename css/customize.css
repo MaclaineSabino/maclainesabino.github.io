@@ -1,0 +1,35 @@
+.cont_principal{
+  
+  padding: 1%;
+  background-color:azure;
+}
+#coluna_right{
+  margin-left: 30px;
+
+}
+.capa{
+  max-width: 70%;
+  max-height: 40%;
+  
+}
+
+.panfleto{
+  margin-bottom: 10px;
+ 
+}
+.img_perfil{
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.colunas{
+  background-color: white;
+  padding-top: 20px;
+  
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.tit_card{
+  text-align: center;
+  margin-top: 30px;
+}
+
